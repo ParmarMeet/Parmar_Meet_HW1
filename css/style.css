@@ -1,0 +1,143 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, serif;
+}
+
+.purple-bg{
+  background-color: #e5cbe8 !important;
+}
+.blue-bg{
+  background-color: #cbcde8 !important;
+}
+.orange-bg{
+  background-color: #e8dccb !important;
+}
+.normal {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+   
+  
+}
+.normal-cherry {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+   
+}
+
+.zoom {
+  padding: 50px;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  animation: shake 0.5s;
+  transition-duration: 600ms;
+  
+
+  border-radius: 50%;
+}
+
+
+.zoom-cherry {
+  padding: 50px;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  animation: shake 0.5s;
+  transition-duration: 600ms;
+  
+}
+.whit-bg{
+ background-color: white !important;
+}
+.center{
+  text-align: center;
+}
+
+.normal-grap {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+   
+}
+.zoom-grap {
+  padding: 50px;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  animation: shake 0.5s;
+  transition-duration: 600ms;
+  
+
+}
+.normal-pineapple {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+   
+}
+.zoom-pineapple {
+  padding: 50px;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  animation: shake 0.5s;
+  transition-duration: 600ms;
+  
+
+}
+.normal-orang {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+   
+}
+.zoom-orang {
+  padding: 50px;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  animation: shake 0.5s;
+  transition-duration: 600ms;
+  
+
+}
+.normal-kiwi {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+   
+}
+.zoom-kiwi {
+  padding: 50px;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  animation: shake 0.5s;
+  transition-duration: 600ms;
+  
+
+}
+
+
+.box-juice{
+ box-sizing: border-box;
+}
+
